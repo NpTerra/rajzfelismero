@@ -1,0 +1,5 @@
+/build/
+/doxy/
+.vscode/
+
+!/doxy/latex/refman.pdf
